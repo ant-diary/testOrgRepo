@@ -1,2 +1,2 @@
 FROM scratch
-
+CMD ["ls"] 
